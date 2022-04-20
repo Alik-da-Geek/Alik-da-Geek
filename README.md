@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Alik-da-Geek
-- 👀 I’m interested in back end software development
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in full stack software development
+- 🌱 I’m currently learning backend technologies
+- 💼 Interning at Meta this summer!
 - 📫 Reach me at aliksemelianov@gmail.com
 
 <!---
